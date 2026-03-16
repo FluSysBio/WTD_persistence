@@ -20,7 +20,7 @@ See the [LICENSE](LICENSE) file for the complete license terms.
 ## Citation
 
 ```bibtex
-@article{prasai2026multitask,
+@article{WTD_persistence,
   title={Spatially structured enzootic persistence and evolution of SARS-CoV-2 in free-ranging white-tailed deer},
   author={Xiu-Feng Wan, Hossain Shadman, Aijing Feng, Derek T. Collins, Sarah N. Bevins, Thomas J. DeLiberto, Matthew Combs, Sean P. Streich, Mia Kim Torchetti, Jonathon Heale, Jeffrey C. Chandler.},
   journal={To be added},

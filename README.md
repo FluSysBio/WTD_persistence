@@ -11,6 +11,21 @@ SARS-CoV-2 has repeatedly spilled over from humans into free-ranging white-taile
 
 All publicly available human SARS-CoV-2 genomes were retrieved from the GISAID EpiCoV database and the NCBI GenBank SARS-CoV-2 Resources. From these datasets, we selected sequences originating from 33 U.S. states and 13 foreign countries. After removing duplicate entries and retaining only complete, high-coverage genomes, 537 human SARS-CoV-2 sequences were included in the final dataset. In addition, 77 publicly available SARS-CoV-2 genomes from WTD were incorporated into the comparative analyses. The final published article will provide 
 
+
+## Dependencies
+### Python Dependencies
+The code was developed and tested under Python 3.8.x. The main dependancies are provided below:
+
+    pandas==1.2.4
+    biopython==1.83
+    ete3==3.1.2
+    DendroPy==5.0.8
+    geopandas==0.13.2
+    
+### R Dependencies (R version 4.5.3)
+    ecodist==2.1.3
+    outbreakinfo==0.2.0
+
 ## License
 
 This project is distributed under the Academic Research License.

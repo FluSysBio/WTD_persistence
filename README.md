@@ -4,6 +4,8 @@ This is the code related to our paper 'Spatially structured enzootic persistence
 
 The paper is currently under review for publication. 
 
+The data folder contains data files and the R_code and python_code folders contain codes. The data and code together can be used to re-generate the figures/analysis from the manuscript. 
+
 ## Abstract
 SARS-CoV-2 has repeatedly spilled over from humans into free-ranging white-tailed deer (WTD), a major wildlife host in the United States. However, how enzootic viral lineages persist and interact with newly introduced variants remains poorly defined. Here, we sampled 18,608 WTD across 31 states and the Virgin Islands between October 2022 and September 2023, identifying 328 PCR-positive animals. Evolutionary analyses revealed that human-origin Omicron lineages rapidly rose to dominance, while previously widespread Delta variants declined. The Alpha variant, first detected in WTD in 2021, persisted within spatially structured WTD populations, particularly in Pennsylvania. Phylogeographic reconstructions suggested that long-term lineage persistence in Pennsylvania coincided with spatially constrained connectivity and limited dispersal across physiographic regions. Serosurveillance, together with decelerated yet sustained evolutionary rates, supports continued adaptation under enzootic circulation. These findings indicate that in a landscape-structured metapopulation of free-ranging WTD, SARS-CoV-2 lineages can persist, diversify, and evolve independently of contemporaneous human epidemic dynamics.
 

@@ -33,6 +33,10 @@ The code was developed and tested under Python 3.8.x. The main dependancies are 
     ecodist==2.1.3
     outbreakinfo==0.2.0
 
+## To Run Code
+
+Download the script and associated data file and run.
+
 ## License
 
 This project is distributed under the Academic Research License.

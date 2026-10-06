@@ -28,6 +28,10 @@ The code was developed and tested under Python 3.8.x. The main dependancies are 
     ete3==3.1.2
     DendroPy==5.0.8
     geopandas==0.13.2
+    matplotlib==3.10.7
+    numpy==2.1.2
+
+The pipeline also requires HyPhy package to be installed for MEME analysis.
     
 ### R Dependencies (R version 4.5.3)
     ecodist==2.1.3

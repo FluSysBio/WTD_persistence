@@ -1,6 +1,6 @@
 # Spatially structured enzootic persistence and evolution of SARS-CoV-2 in free-ranging white-tailed deer
 
-This is the code related to our paper 'Spatially structured enzootic persistence and evolution of SARS-CoV-2 in free-ranging white-tailed deer' authored by Xiu-Feng Wan, Hossain Shadman, Aijing Feng, Derek T. Collins, Sarah N. Bevins, Thomas J. DeLiberto, Matthew Combs, Sean P. Streich, Mia Kim Torchetti, Jonathon Heale, Jeffrey C. Chandler.
+This is the code related to our paper 'Spatially structured enzootic persistence and evolution of SARS-CoV-2 in free-ranging white-tailed deer' authored by Xiu-Feng Wan, Kritika Prasai, Hossain Shadman, Aijing Feng, Derek T. Collins, Sarah N. Bevins, Thomas J. DeLiberto, Matthew Combs, Sean P. Streich, Mia Kim Torchetti, Jonathon Heale, Jeffrey C. Chandler.
 
 The paper is currently under review for publication. 
 
@@ -48,7 +48,7 @@ See the [LICENSE](LICENSE) file for the complete license terms.
 ```bibtex
 @article{WTD_persistence,
   title={Spatially structured enzootic persistence and evolution of SARS-CoV-2 in free-ranging white-tailed deer},
-  author={Xiu-Feng Wan, Hossain Shadman, Aijing Feng, Derek T. Collins, Sarah N. Bevins, Thomas J. DeLiberto, Matthew Combs, Sean P. Streich, Mia Kim Torchetti, Jonathon Heale, Jeffrey C. Chandler.},
+  author={Xiu-Feng Wan, Kritika Prasai, Hossain Shadman, Aijing Feng, Derek T. Collins, Sarah N. Bevins, Thomas J. DeLiberto, Matthew Combs, Sean P. Streich, Mia Kim Torchetti, Jonathon Heale, Jeffrey C. Chandler.},
   journal={To be added},
   year={2026}
 }
